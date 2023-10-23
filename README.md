@@ -1,2 +1,6 @@
 # ESP32-S3_ST7735S_XPT2046_SharedSPI
 ESP32-S3 drive ST7735S 128x160 pixel lcd with resister touch XPT2046 hared SPI bus
+
+LCD : ST7735S With Touch 128x160
+MCU : ESP32-S3 N16R8
+Touch : XPT2046
